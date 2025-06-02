@@ -1,0 +1,5 @@
+groq
+agno
+python-dotenv
+sqlalchemy
+fastapi[standard]
